@@ -1,3 +1,3 @@
 # TDA
 
--TDA Heap
+-Priority queue Heap
